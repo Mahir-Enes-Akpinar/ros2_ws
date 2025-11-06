@@ -1,0 +1,4 @@
+
+cmd_vel frekans ölçülüyor (3 saniye)...
+average rate: 49.995
+	min: 0.019s max: 0.021s std dev: 0.00035s window: 51
