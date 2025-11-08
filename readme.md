@@ -5,11 +5,6 @@ You can use it as a starting point for your robot projects.
 
 ---
 
-
-
-
----
-
 ## 🚀 How to Build and Run
 
 ```bash
